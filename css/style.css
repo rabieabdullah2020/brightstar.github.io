@@ -10,6 +10,8 @@ body, html {
 .header{
     background-color: #012B35;
     color: #fff;
+    overflow: hidden;
+
 }
 .header .top-2,
 .header .top-1 li{
@@ -32,6 +34,8 @@ body, html {
 .navbar {
     background-color: #0F434F !important;
     color: #fff !important;
+    overflow: hidden;
+
 }
 .navbar .nav-item {
     margin-left: 20px;
@@ -42,6 +46,9 @@ body, html {
     color: #fff;
 } 
 /* ================Carousel===============*/
+#myCarousel {
+    overflow: hidden;
+}
 .carousel-item {
     height: 750px;
 }
