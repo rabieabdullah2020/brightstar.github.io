@@ -258,7 +258,7 @@ footer {
 }
 @media (max-width: 576px) {
     .header {
-        max-height: 60% !important;
+        max-height: 70px !important;
     }
     .header .top-2 .list-inline-item {
         display: none !important;
