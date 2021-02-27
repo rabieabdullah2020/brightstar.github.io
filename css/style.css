@@ -257,9 +257,6 @@ footer {
     font-size: 25px;
 }
 @media (max-width: 576px) {
-    .header {
-        font-size: 18px !important;
-    }
     .header .top-2 .list-inline-item {
         display: none !important;
     }
@@ -279,7 +276,6 @@ footer {
     }
     .carousel-dark .carousel-caption p, .carousel-dark .carousel-caption h5 {
         font-size: 20px;
-       
     }
 }
 
