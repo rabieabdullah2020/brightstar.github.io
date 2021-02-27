@@ -80,5 +80,8 @@ body {
     #map {
         display: none;
     }
+    .btnContactSubmit {
+    width: 100%;
+}
     
 }

@@ -69,12 +69,20 @@ body, html {
     font-size: 20px;
     background-color: #fff;
 }
-#about h5 {
+#about h4 {
     color: #055d70;
     font-size: 25px;
     margin-bottom: 30px;
     margin-top: 40px;
-    
+    text-align: center;
+}
+#about h4::after {
+    content: '';
+    background: #055d70;
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 100px;
 }
 
 #about #heading,
@@ -160,7 +168,7 @@ services .card-footer {
     padding-bottom: 15px;
 }
 .testmonials h1::after,
-#offers h5::after {
+#offers h5::after{
     content: '';
     background: #055d70;
     display: block;
@@ -249,6 +257,7 @@ footer {
     font-size: 25px;
 }
 @media (max-width: 576px) {
+   
     .header .top-2 .list-inline-item {
         display: none !important;
     }
