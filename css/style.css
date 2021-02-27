@@ -7,7 +7,10 @@ body, html {
     background-color: #fff;
     margin: 0;
     padding: 0;
+    width: auto!important;
+     overflow-x: hidden!important;
 }
+
 .header{
     background-color: #012B35;
     color: #fff;
