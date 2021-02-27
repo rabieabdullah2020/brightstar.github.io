@@ -5,10 +5,8 @@
 body, html {
     font-family: 'Almarai', sans-serif;
     background-color: #fff;
+    width: 100%;
 }
-body {
-    overflow-x: hidden;
-  }
 .header{
     background-color: #012B35;
     color: #fff;
