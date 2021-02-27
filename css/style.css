@@ -260,7 +260,9 @@ footer {
     .header {
         max-height: 60px !important;
     }
-   
+    .m-1 {
+        margin: 0!important;
+    }
     .header .top-2 .list-inline-item {
         display: none !important;
     }
