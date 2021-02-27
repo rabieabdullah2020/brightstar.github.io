@@ -269,15 +269,6 @@ footer {
     .profile {
         margin-top: 60px;
     }
-    .carousel-dark .carousel-caption {
-        margin-top: -100px;
-        min-height: 300px;
-    }
-    .carousel-dark .carousel-caption p, .carousel-dark .carousel-caption h5 {
-        font-size: 22px !important;
-    }
-  
-
 }
 
 
